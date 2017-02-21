@@ -9,7 +9,7 @@ It is a single page app for GitHub user account competition. A user can input Gi
 
 
 ##Motivation
-Inspired by the [react-static-boilerplate](https://github.com/kriasoft/react-static-boilerplate) that I used for a previous serverless project, this project is designed for React & Redux practice, to provide a thorough understanding of the React and Redux ecosystem while building up the gitbattle app. Also, this project introduces Nightwatch.js for integration testing and helps to improve a good habit of test driven development.  
+This project is designed for React & Redux practice, to provide a thorough understanding of the React and Redux ecosystem while building up the gitbattle app. 
 
 ##Features
 - **[React](https://facebook.github.io/react/)** for component development
@@ -30,10 +30,6 @@ Inspired by the [react-static-boilerplate](https://github.com/kriasoft/react-sta
 
  A **first-time Webpack user** may experience difficulty going through the official Webpack documentation. The 'Webpack for React' section of the [React Fundamental tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals) provides a concise description and practice to show how Webpack works.
 
-
-- **[NightWatch.js](http://nightwatchjs.org/)** for integration test:
-
- With Nightwatch, a developer can write End-to-End tests in node.js.
 
 - Developer Tools
 
@@ -66,6 +62,11 @@ Some good articles of container and presentational components:
 
 [presentational and container components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.y2bpt8k40) by Dan Abranov 
 
+##Integration Test
+
+ **[NightWatch.js](http://nightwatchjs.org/)** is considered as the test tooling for this project. With Nightwatch, a developer can write End-to-End tests in node.js.
+
+Currently, the React components are built up while the state management function is not yet applied. The integration tests will be introduced in when Redux patterns start to apply to the components.
 
 
 
