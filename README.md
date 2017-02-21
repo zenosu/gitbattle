@@ -41,7 +41,7 @@ Inspired by the [react-static-boilerplate](https://github.com/kriasoft/react-sta
 
 
 ##Getting Started
-This project does not use a boilerplate. The package.json file is updated when new dependencies are in need for developing.
+This project does not use a boilerplate, thus the package.json file is updated when new dependencies are in need for developing.
 
 Have [npm] (https://nodejs.org/en/download/) downloaded already
 
@@ -56,25 +56,15 @@ Have [npm] (https://nodejs.org/en/download/) downloaded already
 
 ##Code Example
 
-Here is an example of the home page component:
+The [PromptContainer.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/PromptContainer.js) file is an example of a container component, and the [prompt.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/prompt.js) file is the corresponded presentation component. 
 
-```
-var Home = React.createClass({
-  render: function() {
-    return (
-      <div className= "jumbotron col-sm-6 col-sm-offset-3 text-center" style={transparentBg}> 
-        <h1>Github Battle</h1>  
-        <p className='lead'>Some fancy motto</p>
-        <Link to= '/playerOne'>
-          <button className = "btn btn-lg btn-success" type = "submit">
-            Get Started
-          </button>	          
-        </Link>
-      </div>
-    )
-  }
-});
-```
+Container component pattern of React does data fetching and then renders its corresponding presentation components. The container component provides the reusability of non-presentation components. Also, it helps the presentation components to be stateless. 
+
+Some good articles of container and presentational components: 
+
+[Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.lmwx3updt) by Learn React with chantastic 
+
+[presentational and container components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.y2bpt8k40) by Dan Abranov 
 
 
 
