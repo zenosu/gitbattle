@@ -9,7 +9,7 @@ It is a single page app to compete GitHub users' account with the following step
 
 Click the button to start the battle (home page)
 
-Input GitHub user handlers (input Page)
+Input mutipal GitHub user handlers (input Page)
 
 The users' account information will be represented and compared, and a competetion result will show (battle page) 
 
@@ -79,10 +79,20 @@ Some good articles of container and presentational components:
 ##Testing
 
  **[NightWatch.js](http://nightwatchjs.org/)** is considered as the test tooling for End-to-End tests.
+ 
+ Nightwatch works with the Selenium standalone server. Therefore Slenium needs to be [downloaded] before installing Nightwatch (https://selenium-release.storage.googleapis.com/index.html).
+ 
+####installation
 
-####Installation
+`$ git clone https://github.com/nightwatchjs/nightwatch.git
+$ cd nightwatch
+$ npm install`
 
+####run test
 
+`npm test`
+
+If a developor wants to run function unit tests, use `npm run unit-tests`
 
 
 
