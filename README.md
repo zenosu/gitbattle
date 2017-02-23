@@ -17,10 +17,13 @@ The user's winning percentage and rank will be constantly updated as long as the
 
 
 ##Motivation
-This project is designed for React & Redux practice, to provide a thorough understanding of the React and Redux ecosystem while building up the gitbattle app. This Project has two development phases:
+This project is designed for React & Redux practice. While building the gitbattle app, a developer can:
 
-####Phase 1: Develop the React components of the gitbattle app.
-####Phase 2: Add on Redux state management patterns and End-to-End testing.
+- Learn how to develop React components 
+
+- Learn how to add on Redux state management and how will it works everytime the React component renders
+
+- End-to-End testing
 
 ##Features
 - **[React](https://facebook.github.io/react/)** for component development
