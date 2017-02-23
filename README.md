@@ -109,7 +109,7 @@ $ npm install
 
 `npm test`
 
-If a developor wants to run function unit tests, use 
+####run unit test
 
 `npm run unit-tests`
 
