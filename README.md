@@ -93,7 +93,7 @@ Some good articles of container and presentational components:
 
 ##Testing
 
- **[NightWatch.js](http://nightwatchjs.org/)** is considered as the test tooling for End-to-End tests.
+ We are using **[NightWatch.js](http://nightwatchjs.org/)** for e2e or integration tests.
  
  Nightwatch works with the Selenium standalone server. Therefore Slenium needs to be [downloaded](https://selenium-release.storage.googleapis.com/index.html) before installing Nightwatch.
  
