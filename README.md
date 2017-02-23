@@ -68,7 +68,7 @@ Have [npm] (https://nodejs.org/en/download/) downloaded already
 
 One of the most helpful React patterns for development is the container component. Container component does data fetching and then renders its corresponding presentation components. 
 
-For instance, The [PromptContainer.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/PromptContainer.js) file is an example of a container component of the input page, and the [prompt.js](https://github.com/zenosu/gitbattle/blob/master/app/components/prompt.js) file is the corresponded presentation component of the input page. 
+For instance, The [PromptContainer.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/PromptContainer.js) file is an example of a container component of the input page, and the [prompt.js](https://github.com/zenosu/gitbattle/blob/master/app/components/prompt.js) file is the corresponded presentation component. 
 
 ```
 render: function() {
