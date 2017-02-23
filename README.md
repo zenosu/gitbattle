@@ -21,7 +21,7 @@ This project is designed for React & Redux practice. While building the gitbattl
 
 - Learn how to develop React components 
 
-- Learn how to add on Redux state management and how will it works everytime the React component renders
+- Learn how to add on Redux state management and how it works everytime the React component renders
 
 - End-to-End testing
 
