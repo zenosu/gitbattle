@@ -67,7 +67,7 @@ Have [npm] (https://nodejs.org/en/download/) downloaded already
 
 ##Code Example
 
-One of the most helpful React patterns for development is the container component. Container component does data fetching and then renders its corresponding presentation components. 
+The container component is a really useful pattern of React. A container can be reused to render its corresponding presentation component, and the presentation component can be stateless.
 
 For instance, The [PromptContainer.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/PromptContainer.js) file is an example of a container component of the input page, and the [prompt.js](https://github.com/zenosu/gitbattle/blob/master/app/components/prompt.js) file is the corresponded presentation component. 
 
@@ -82,8 +82,6 @@ render: function() {
 	  )    
   }
 ```
-
-The container component provides the reusability of non-presentation components. Also, it helps the presentation components to be stateless. 
 
 Some good articles of container and presentational components: 
 
