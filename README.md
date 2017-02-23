@@ -84,11 +84,11 @@ Some good articles of container and presentational components:
  
 ####installation
 
-`$ git clone https://github.com/nightwatchjs/nightwatch.git
-
+```
+$ git clone https://github.com/nightwatchjs/nightwatch.git
 $ cd nightwatch
-
-$ npm install`
+$ npm install
+```
 
 ####run test
 
