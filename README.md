@@ -9,7 +9,10 @@ It is a single page app for GitHub user account competition. A user can input Gi
 
 
 ##Motivation
-This project is designed for React & Redux practice, to provide a thorough understanding of the React and Redux ecosystem while building up the gitbattle app. 
+This project is designed for React & Redux practice, to provide a thorough understanding of the React and Redux ecosystem while building up the gitbattle app. This Project has two development phases:
+
+####Phas f,gmndsf,jgn,e 1: Develop the React components of the gitbattle app.
+####Phase 2: Add on Redux state management patterns and End-to-End testing.
 
 ##Features
 - **[React](https://facebook.github.io/react/)** for component development
@@ -62,11 +65,13 @@ Some good articles of container and presentational components:
 
 [presentational and container components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.y2bpt8k40) by Dan Abranov 
 
-##Integration Test
+##Testing
 
- **[NightWatch.js](http://nightwatchjs.org/)** is considered as the test tooling for this project. With Nightwatch, a developer can write End-to-End tests in node.js.
+ **[NightWatch.js](http://nightwatchjs.org/)** is considered as the test tooling for End-to-End tests.
 
-Currently, the React components are built up while the state management function is not yet applied. The integration tests will be introduced in when Redux patterns start to apply to the components.
+####Installation
+
+
 
 
 
