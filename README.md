@@ -68,7 +68,21 @@ Have [npm] (https://nodejs.org/en/download/) downloaded already
 
 The [PromptContainer.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/PromptContainer.js) file is an example of a container component of the input page, and the [prompt.js](https://github.com/zenosu/gitbattle/blob/master/app/components/prompt.js) file is the corresponded presentation component of the input page. 
 
-Container component pattern of React does data fetching and then renders its corresponding presentation components. The container component provides the reusability of non-presentation components. Also, it helps the presentation components to be stateless. 
+Container component does data fetching and then renders its corresponding presentation components. 
+
+```
+render: function() {
+  	return (
+  		<Prompt 
+        onSubmitUser = {this.handleSubmitUser}
+        onUpdateUser = {this.handleUpdateUser} 
+        header = {this.props.route.header}
+        username = {this.state.username} /> 
+	  )    
+  }
+```
+
+The container component provides the reusability of non-presentation components. Also, it helps the presentation components to be stateless. 
 
 Some good articles of container and presentational components: 
 
