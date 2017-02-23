@@ -5,13 +5,15 @@
 Build a gitbattle app from scratch. This gitbattle app is an extension of the [React.js Fundamental tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals).
 
 ####What is a gitbattle app?
-It is a single page app for GitHub user account competition. A user can 
+It is a single page app to compete GitHub users' account with the following steps: 
 
-input GitHub user handlers, 
+Click the button to start the battle (home page)
 
-and the users' account information will be automatically compared, to decide which GitHub user account is better. 
+Input GitHub user handlers (input Page)
 
-The user's winning percentage and rank will be constantly updated as long as the app runs. 
+The users' account information will be represented and compared, and a competetion result will show (battle page) 
+
+The user's winning percentage and rank will be constantly updated as long as the app runs (statistics page) 
 
 
 ##Motivation
