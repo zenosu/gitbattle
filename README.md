@@ -5,13 +5,19 @@
 Build a gitbattle app from scratch. This gitbattle app is an extension of the [React.js Fundamental tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals).
 
 ####What is a gitbattle app?
-It is a single page app for GitHub user account competition. A user can input GitHub user handlers, and the users' account information will be automatically compared, to decide which GitHub user account is better. The user's winning percentage and rank will be constantly updated as long as the app runs. 
+It is a single page app for GitHub user account competition. A user can 
+
+input GitHub user handlers, 
+
+and the users' account information will be automatically compared, to decide which GitHub user account is better. 
+
+The user's winning percentage and rank will be constantly updated as long as the app runs. 
 
 
 ##Motivation
 This project is designed for React & Redux practice, to provide a thorough understanding of the React and Redux ecosystem while building up the gitbattle app. This Project has two development phases:
 
-####Phas f,gmndsf,jgn,e 1: Develop the React components of the gitbattle app.
+####Phase 1: Develop the React components of the gitbattle app.
 ####Phase 2: Add on Redux state management patterns and End-to-End testing.
 
 ##Features
@@ -55,7 +61,7 @@ Have [npm] (https://nodejs.org/en/download/) downloaded already
 
 ##Code Example
 
-The [PromptContainer.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/PromptContainer.js) file is an example of a container component, and the [prompt.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/prompt.js) file is the corresponded presentation component. 
+The [PromptContainer.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/PromptContainer.js) file is an example of a container component of the input page, and the [prompt.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/prompt.js) file is the corresponded presentation component of the input page. 
 
 Container component pattern of React does data fetching and then renders its corresponding presentation components. The container component provides the reusability of non-presentation components. Also, it helps the presentation components to be stateless. 
 
