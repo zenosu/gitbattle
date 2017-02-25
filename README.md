@@ -18,13 +18,16 @@ It is a single page app to compare GitHub users' account by:
 
 
 ##Motivation
-This project is designed for React & Redux practice. While building the gitbattle app, a developer can:
 
-- Learn how to develop React components 
+This project is designed for React & Redux practice. While working on this project, a developer will learn:
 
-- Learn how to add on Redux state management and how it works everytime the React component renders
+- the component based approach to building UIs
 
-- End-to-End testing
+- the whole React component lifecycle
+
+- Redux state management 
+
+- integration test from the user endpoint
 
 ##Features
 - **[React](https://facebook.github.io/react/)** for component development
