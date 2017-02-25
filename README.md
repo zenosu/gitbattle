@@ -2,7 +2,8 @@
 # gitbattle
 
 ##Goal
-To build a gitbattle app from scratch. This gitbattle app is an extension of the [React.js Fundamental tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals).
+
+To build the gitbattle app from scratch. This gitbattle app is an extension of the [React.js Fundamental tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals).
 
 ####What is a gitbattle app?
 
