@@ -3,9 +3,9 @@
 
 ##Goal
 
-The goal of this project is to learn React and Redux by building the gitbattle app from scratch. 
+The goal of this project is to practice React and Redux by building the gitbattle app from scratch. 
 
-While working on this project, a developer will learn:
+####What to learn from this project?
 
 - the [component based](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238#.kxd4dl4g8) approach to building UIs
 
