@@ -47,7 +47,7 @@ Experience with JavaScript and [npm](https://www.npmjs.com/).
 
 - Developer Tools
 
- **[React DevTools](https://github.com/facebook/react-devtools)** and **[Redux DevTools](https://github.com/gaearon/redux-devtools)** are convenient for time traveling debugging. Both can also be downloaded from Chrome Web Store or Add-ons for Firefox.
+ **[React DevTools](https://github.com/facebook/react-devtools)** and **[Redux DevTools](https://github.com/gaearon/redux-devtools)** are convenient for time traveling debugging. Both tools can also be downloaded from the Chrome Web Store or the Add-ons for Firefox.
 
 
 ##Getting Started
