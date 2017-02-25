@@ -118,5 +118,13 @@ $ npm install
 `npm run unit-tests`
 
 
+##Contributing
 
+Please submit an issue if you experience any problem during the development process. 
+
+Please make a pull request if you have any idea of add-on components or source code refectoring.
+
+We appreciate any kind of contribution from our coders.
+
+Happy codying.
 
