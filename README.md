@@ -21,6 +21,10 @@ The gitbattle app is an extension of the [React.js Fundamental tutorial by Tyler
 
 Gitbattle is a single page app. With this app, a user can enter multipal GitHub usernames, compare the user accounts, then decide which one is the best. The user's winning percentage and ranking are constantly updated. 
 
+##Prerequisites of this project
+
+Experience with Javascript and [npm](https://www.npmjs.com/).
+
 ##Features
 - **[React](https://facebook.github.io/react/)** for component development
 
