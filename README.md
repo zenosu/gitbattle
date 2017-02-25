@@ -60,12 +60,14 @@ make a diractory for this project
 `$ mkdir <dir name>`
 
 go to the project directory, and download this repository
+
 `git clone https://github.com/zenosu/gitbattle.git`
 
 install the dependencies
+
 `npm install`
 
-run `npm start` to see the app on http://localhost:8080
+run `npm start` to see the app on [http://localhost:8080](http://localhost:8080)
 
 
 ##Code Example
