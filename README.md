@@ -53,21 +53,22 @@ Experience with JavaScript and [npm](https://www.npmjs.com/).
 ##Getting Started
 
 
-Have [npm] (https://nodejs.org/en/download/) downloaded already
+Have [npm] (https://nodejs.org/en/download/) installed
 
-make a diractory for this project
+
+Make a diractory for this project
 
 `$ mkdir <dir name>`
 
-go to the project directory, and download this repository
+Go to the project directory, and download this repository
 
 `git clone https://github.com/zenosu/gitbattle.git`
 
-install the dependencies
+Install the dependencies
 
 `npm install`
 
-run `npm start` to see the app on [http://localhost:8080](http://localhost:8080)
+Run `npm start` to see the app on [http://localhost:8080](http://localhost:8080)
 
 
 ##Code Example
