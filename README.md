@@ -99,7 +99,7 @@ Some good articles of container and presentational components:
 
  We are using **[NightWatch.js](http://nightwatchjs.org/)** for e2e or integration tests.
  
- Nightwatch works with the Selenium standalone server. Therefore Slenium needs to be [downloaded](https://selenium-release.storage.googleapis.com/index.html) before installing Nightwatch.
+ Nightwatch works with the Selenium standalone server. Therefore Slenium needs to be [installed](https://selenium-release.storage.googleapis.com/index.html) first.
  
 ####installation
 
