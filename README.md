@@ -3,7 +3,7 @@
 
 ##Goal
 
-The goal of this project is for React & Redux practice, by building the gitbattle app from scratch. 
+The goal of this project is to practice React & Redux by building the gitbattle app from scratch. 
 
 While working on this project, a developer will learn:
 
