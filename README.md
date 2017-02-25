@@ -51,17 +51,21 @@ Experience with JavaScript and [npm](https://www.npmjs.com/).
 
 
 ##Getting Started
-This project does not use a boilerplate, thus the package.json file is updated when new dependencies are in need for developing.
+
 
 Have [npm] (https://nodejs.org/en/download/) downloaded already
 
-`$ mkdir gitbattle`
+make a diractory for this project
 
-`$ npm init`
+`$ mkdir <dir name>`
 
-`$ npm i --save react react-dom redux react-redux axios`
+go to the project directory, and download this repository
+`git clone https://github.com/zenosu/gitbattle.git`
 
-`$ npm i --save-dev html-webpack-plugin webpack webpack-dev-server babel-core babel-loader babel-preset-react react-devtools redux-devtools`
+install the dependencies
+`npm install`
+
+run `npm start` to see the app on http://localhost:8080
 
 
 ##Code Example
