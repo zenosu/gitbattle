@@ -13,7 +13,7 @@ While working on this project, a developer will learn:
 
 - Redux state management 
 
-- integration test from the user endpoint
+- integration test from the user's endpoint
 
 ####What is a gitbattle app?
 
