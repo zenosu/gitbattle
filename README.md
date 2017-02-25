@@ -3,9 +3,21 @@
 
 ##Goal
 
-To build the gitbattle app from scratch. This gitbattle app is an extension of the [React.js Fundamental tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals).
+The goal of this project is for React & Redux practice, by building the gitbattle app from scratch. 
+
+While working on this project, a developer will learn:
+
+- the [component based](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238#.kxd4dl4g8) approach to building UIs
+
+- the whole React component lifecycle
+
+- Redux state management 
+
+- integration test from the user endpoint
 
 ####What is a gitbattle app?
+
+The gitbattle app is an extension of the [React.js Fundamental tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals).
 
 It is a single page app to compare GitHub users' accounts by: 
 
@@ -20,15 +32,7 @@ It is a single page app to compare GitHub users' accounts by:
 
 ##Motivation
 
-This project is designed for React & Redux practice. While working on this project, a developer will learn:
 
-- the component based approach to building UIs
-
-- the whole React component lifecycle
-
-- Redux state management 
-
-- integration test from the user endpoint
 
 ##Features
 - **[React](https://facebook.github.io/react/)** for component development
