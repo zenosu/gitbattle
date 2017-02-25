@@ -23,7 +23,7 @@ Gitbattle is a single page app. With this app, a user can enter multipal GitHub 
 
 ##Prerequisites of this project
 
-Experience with Javascript and [npm](https://www.npmjs.com/).
+Experience with JavaScript and [npm](https://www.npmjs.com/).
 
 ##Features
 - **[React](https://facebook.github.io/react/)** for component development
