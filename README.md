@@ -6,11 +6,11 @@ Build a gitbattle app from scratch. This gitbattle app is an extension of the [R
 
 ####What is a gitbattle app?
 
-It is a single page app to compete GitHub users' account with the following steps: 
+It is a single page app to compare GitHub users' account by: 
 
 - Click the button to start the battle (home page)
 
-- Input mutipal GitHub user handlers (input Page)
+- Enter mutipal GitHub usernames (input Page)
 
 - The users' account information will be represented and compared, and a competetion result will show (battle page) 
 
