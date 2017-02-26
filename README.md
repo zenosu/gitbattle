@@ -17,9 +17,9 @@ The goal of this project is to practice React and Redux by building the gitbattl
 
 ####What is a gitbattle app?
 
-The gitbattle app is an extension of the [React.js Fundamental tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals). 
+The gitbattle app is an extension of the [React Fundamentals tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals). 
 
-Gitbattle is a single page app. With this app, a user can enter multipal GitHub usernames, compare the user accounts, then decide which one is the best. The user's winning percentage and ranking are constantly updated. 
+Gitbattle is a single page app. With this app, a user can enter multiple GitHub usernames, compare the user accounts, then decide which one is the best. The user's winning percentage and ranking are constantly updated. 
 
 ##Prerequisites of this project
 
@@ -56,7 +56,7 @@ Experience with JavaScript and [npm](https://www.npmjs.com/).
 Have [npm] (https://nodejs.org/en/download/) installed
 
 
-Make a diractory for this project
+Make a directory for this project
 
 `$ mkdir <dir name>`
 
@@ -89,7 +89,7 @@ render: function() {
   }
 ```
 
-Some good articles of container and presentational components: 
+Some good articles about containers and presentational components: 
 
 [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.lmwx3updt) by Learn React with chantastic 
 
@@ -99,7 +99,7 @@ Some good articles of container and presentational components:
 
  We are using **[NightWatch.js](http://nightwatchjs.org/)** for e2e or integration tests.
  
- Nightwatch works with the Selenium standalone server. Therefore Slenium needs to be [installed](https://selenium-release.storage.googleapis.com/index.html) first.
+ Nightwatch works with the Selenium standalone server. Therefore Selenium needs to be [installed](https://selenium-release.storage.googleapis.com/index.html) first.
  
 ####installation
 
@@ -122,9 +122,9 @@ $ npm install
 
 Please submit an issue if you experience any problem during the development process. 
 
-Please make a pull request if you have any idea of add-on components or source code refectoring.
+Please make a pull request if you have any idea for add-on components or source code.
 
 We appreciate any kind of contribution from our coders.
 
-Happy codying.
+Happy codying!
 
