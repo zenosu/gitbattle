@@ -122,7 +122,7 @@ $ npm install
 
 Please submit an issue if you experience any problem during the development process. 
 
-Please make a pull request if you have any idea for add-on components or source code.
+Please make a pull request if you have any idea for add-on components or refactoring.
 
 We appreciate any kind of contribution from our coders.
 
