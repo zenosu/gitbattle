@@ -49,23 +49,14 @@ Experience with JavaScript and [npm](https://www.npmjs.com/).
 
 ##Getting Started
 
-
-Have [npm] (https://nodejs.org/en/download/) installed
-
-
-Make a directory for this project
-
-`$ mkdir <dir name>`
-
-Go to the project directory, and download this repository
-
 `git clone https://github.com/zenosu/gitbattle.git`
 
-Install the dependencies
+`cd gitbattle`
 
 `npm install`
 
-Run `npm start` to see the app on [http://localhost:8080](http://localhost:8080)
+`npm start` -This runs a local webserver on port 8080 and sets up an instance of gitbattle.
+
 
 
 ##Code Example
