@@ -55,7 +55,7 @@ Experience with JavaScript and [npm](https://www.npmjs.com/).
 
 `npm install`
 
-`npm start` -This runs a local webserver on port 8080 and sets up an instance of gitbattle.
+`npm start` -This runs a local web server on port 8080 and sets up an instance of gitbattle.
 
 
 
