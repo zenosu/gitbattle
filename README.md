@@ -7,9 +7,9 @@ The goal of this project is to practice React and Redux by building the gitbattl
 
 ####Things I learned doing this project
 
-- the [component based](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238#.kxd4dl4g8) approach to building UIs
+- The [component based](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238#.kxd4dl4g8) approach to building UIs
 
-- the whole React component lifecycle
+- The whole React component lifecycle
 
 - Redux state management 
 
