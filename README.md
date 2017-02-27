@@ -63,7 +63,7 @@ Experience with JavaScript and [npm](https://www.npmjs.com/).
 
 The container is a really useful React pattern. A container can be reused to render its corresponding presentation component, and the presentation component can be stateless.
 
-For instance, The [PromptContainer.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/PromptContainer.js) file is an example of a container component of the input page, and the [prompt.js](https://github.com/zenosu/gitbattle/blob/master/app/components/prompt.js) file is the corresponded presentation component. 
+For instance, The [PromptContainer.js](https://github.com/zenosu/gitbattle/blob/master/app/containers/PromptContainer.js) file is an example of a container component of the input page, and the [prompt.js](https://github.com/zenosu/gitbattle/blob/master/app/components/prompt.js) file is the corresponding presentation component. 
 
 ```
 render: function() {
