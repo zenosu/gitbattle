@@ -13,7 +13,7 @@ The goal of this project is to practice React and Redux by building the gitbattl
 
 - Redux state management 
 
-- integration test from the user's endpoint
+- Writing an integration or E2E test suite with nightwatch.js
 
 ####What is a gitbattle app?
 
