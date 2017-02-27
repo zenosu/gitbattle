@@ -3,7 +3,9 @@
 
 ##Goal
 
-The goal of this project is to practice React and Redux by building the gitbattle app from scratch. 
+The goal of this project is to practice React and Redux by building the gitbattle app from scratch. The gitbattle app is an extension of the [React Fundamentals tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals). 
+
+Gitbattle is a single page app. With this app, a user can enter multiple GitHub usernames, compare the user accounts, then decide which one is the best. The user's winning percentage and ranking are constantly updated. 
 
 ####Things I learned doing this project
 
@@ -15,11 +17,6 @@ The goal of this project is to practice React and Redux by building the gitbattl
 
 - Writing an integration or E2E test suite with nightwatch.js
 
-####What is a gitbattle app?
-
-The gitbattle app is an extension of the [React Fundamentals tutorial by Tyler McGinnes](https://reacttraining.com/online/react-fundamentals). 
-
-Gitbattle is a single page app. With this app, a user can enter multiple GitHub usernames, compare the user accounts, then decide which one is the best. The user's winning percentage and ranking are constantly updated. 
 
 ##Prerequisites of this project
 
