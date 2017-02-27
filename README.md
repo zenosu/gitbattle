@@ -25,11 +25,11 @@ Experience with JavaScript and [npm](https://www.npmjs.com/).
 ##Features
 - **[React](https://facebook.github.io/react/)** for component development
 
-- **[Redux](http://redux.js.org/)** for state update, storage, and management 
+- **[Redux](http://redux.js.org/)** for state management and change notification
 
 - **[React-Router](https://github.com/ReactTraining/react-router)** for routing and navigation
 
-- **[Axios](https://github.com/mzabriskie/axios)** for making request to get GitHub user information
+- **[Axios](https://github.com/mzabriskie/axios)** for making HTTP API requests to get GitHub user statistics
 
 - **[Babel](https://babeljs.io/)** for transpiling:
 
